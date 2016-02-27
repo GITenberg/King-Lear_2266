@@ -1,0 +1,36 @@
+_repo: King-Lear_2266
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- Best Books Ever Listings
+gutenberg_issued: '2000-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+- !lcsh 'Kings and rulers -- Succession -- Drama'
+- !lcsh 'Fathers and daughters -- Drama'
+- !lcsh 'Lear, King (Legendary character) -- Drama'
+- !lcsh 'Aging parents -- Drama'
+- !lcsh 'Kings and rulers -- Drama'
+- !lcsh 'Britons -- Drama'
+title: King Lear
+url: http://www.gutenberg.org/ebooks/2266
