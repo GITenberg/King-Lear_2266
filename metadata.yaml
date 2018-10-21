@@ -1,5 +1,5 @@
 _repo: King-Lear_2266
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -38,5 +38,6 @@ subjects:
 - !lcsh 'Aging parents -- Drama'
 - !lcsh 'Kings and rulers -- Drama'
 - !lcsh 'Britons -- Drama'
+- GITenberg
 title: King Lear
 url: http://www.gutenberg.org/ebooks/2266
